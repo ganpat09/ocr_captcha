@@ -4,7 +4,7 @@ tags:
 - computer vision
 - object detection
 license:
-- cc0.0
+- cc0-1.0
 ---
 
 ## Keras Implementation of OCR model for reading captcha 🤖🦹🏻
