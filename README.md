@@ -3,6 +3,7 @@ tags:
 - ocr
 - computer vision
 - object detection
+- image-to-text
 license:
 - cc0-1.0
 ---
